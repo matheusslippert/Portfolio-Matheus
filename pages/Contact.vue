@@ -2,18 +2,13 @@
   <b-container class="page animate__animated animate__fadeIn">
     <b-row class="justify-content-center">
       <b-col cols="md-6">
-        <h2>Get in touch 💌</h2>
+        <h2>Cotatos</h2>
 
         <p class="text-left">
-          If you have any question or just want to say hi, i'll try my best to
-          get back to you.
+         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nesciunt porro at repellendus eum voluptatum et voluptates sit sed culpa voluptas. Necessitatibus architecto eligendi, beatae velit fugit laborum sunt saepe aspernatur.
         </p>
 
-        <b-alert show variant="success" v-if="showAlert">
-          <strong>All done 🎉</strong><br />
-          Thanks for reaching out {{ this.formData.name }}, I'll reply as soon
-          as i can.
-        </b-alert>
+       
 
            <div
           class="
