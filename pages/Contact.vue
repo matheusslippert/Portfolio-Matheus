@@ -89,7 +89,7 @@ export default {
     },
   },
   head: {
-    title: "Contact - Itsuka",
+    title: "Contato - Matheus",
     meta: [
       {
         hid: "description",
@@ -99,7 +99,7 @@ export default {
       {
         hid: "og:title",
         name: "og:title",
-        content: "Contact - Itsuka",
+        content: "Contato - Matheus",
       },
       {
         property: "og:description",

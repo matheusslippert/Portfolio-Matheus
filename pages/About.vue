@@ -28,7 +28,7 @@
       <div class="col-md-6">
         <img
           src="https://www.wareline.com.br/wp-content/uploads/2018/11/2018-11-05-Post3.png"
-          alt="Itsuka Wallpaper"
+          alt=""
           class="abt-img"
         />
       </div>
@@ -76,7 +76,7 @@ export default {
     };
   },
   head: {
-    title: "About - Itsuka",
+    title: "Sobre Matheus",
     meta: [
       {
         hid: "description",

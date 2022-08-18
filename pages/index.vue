@@ -4,7 +4,7 @@
       <b-img
         src="https://scontent.fpoa12-1.fna.fbcdn.net/v/t39.30808-6/297059993_2266677816817021_5997854202934730565_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=Fx-PaNYKPrwAX_6cgQw&_nc_ht=scontent.fpoa12-1.fna&oh=00_AT85E2mTlZK1gZhuVBY04gGOzorrw0QlNstVQxYVaUxT_Q&oe=6303E1AD"
         id="avatar-img"
-        alt="Itsuka"
+        alt=""
       />
     </b-col>
 
@@ -99,7 +99,7 @@ export default {
       {
         hid: "og:title",
         name: "og:title",
-        content: "Itsuka Dashbord",
+        content: "Matheus",
       },
       {
         property: "og:description",
