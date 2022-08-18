@@ -94,7 +94,7 @@ export default {
         hid: "description",
         name: "description",
         content:
-          "A Lightweight and Stable Discord Music Bot For Your Daily Production.",
+          "lorem",
       },
       {
         hid: "og:title",
@@ -104,12 +104,12 @@ export default {
       {
         property: "og:description",
         content:
-          "A Lightweight and Stable Discord Music Bot For Your Daily Production.",
+          "loere",
       },
       {
         hid: "og:image",
         name: "og:image",
-        content: "https://i.imgur.com/UmWcMjO.png",
+        content: "https://scontent.fpoa12-1.fna.fbcdn.net/v/t39.30808-6/297059993_2266677816817021_5997854202934730565_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=Fx-PaNYKPrwAX_6cgQw&_nc_ht=scontent.fpoa12-1.fna&oh=00_AT85E2mTlZK1gZhuVBY04gGOzorrw0QlNstVQxYVaUxT_Q&oe=6303E1AD",
       },
     ],
   },

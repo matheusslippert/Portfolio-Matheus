@@ -82,7 +82,7 @@ export default {
         hid: "description",
         name: "description",
         // currYear - startYear
-        content: `A Lightweight and Stable Discord Music Bot For Your Daily Production.`,
+        content: `lorem`,
       },
     ],
   },
