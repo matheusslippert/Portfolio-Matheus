@@ -99,7 +99,7 @@ export default {
       {
         hid: "og:title",
         name: "og:title",
-        content: "Matheus",
+        content: "Matheus Dashbord",
       },
       {
         property: "og:description",
